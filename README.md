@@ -5,7 +5,7 @@ For the portfolio section is used Instagram widget, but you can easily update it
 
 ## Live Demo
 
-https://portfolio-central.github.io/jekyll-instagram-portfolio-theme/
+https://nawafisuren.github.io/basapa/
 ![Jekyll Instagram Portfolio Theme](./screenshot.png "Jekyll Instagram Portfolio Theme")
 
 ## Showcase
