@@ -1,7 +1,7 @@
 # Site settings
 # in the templates available like {{ site.myvariable }}.
 title: Clean portfolio theme for Jekyll powered by Bootstrap 4.
-email: your-email@domain.com
+email: nawafi.suren@gmail.com
 brand: ibn suren
 headline: Inventor, Engineer and Futurist
 description: > # this means to ignore newlines until "baseurl:"
@@ -17,8 +17,8 @@ markdown: kramdown
 snapwidget: 247552
 
 # Contacts
-email: your.name@gmail.com
-phone: +1-800-555-2016
+email: nawafi.suren@gmail.com
+phone: +62-899-0011222-5
 
 # Tracking
 googleAnalitycsID: UA-83933844-1
